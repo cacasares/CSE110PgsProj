@@ -1,8 +1,8 @@
 # Markdown Page for Lab 1 of CSE 110
 ## Carl Casares 
-> This is an example of a *quoting text*\
-Do not forget to use `git commit` to commit changes when you are all done!\
-My favorite music video is ["Cosmic"](https://www.youtube.com/watch?v=FyG21rXCxlY) by Red Velvet \
+> This is an example of a *quoting text*\  
+Do not forget to use `git commit` to commit changes when you are all done!\  
+My favorite music video is ["Cosmic"](https://www.youtube.com/watch?v=FyG21rXCxlY) by Red Velvet\  
 
 
 [*Always* remember...](test.md)
